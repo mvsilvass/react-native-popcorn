@@ -3,12 +3,13 @@
 O Popcorn é um aplicativo mobile desenvolvido com React Native que exibe os filmes, séries e animes mais bem avaliados. Ele foi criado como parte da avaliação da disciplina de Desenvolvimento Mobile do curso técnico da ETEC de Guarulhos, no 2º módulo.
 
 ## Screenshots
-
-<img src="./assets/screenshots/moviepage.jpeg" alt="Screenshot da página de filmes" width="150" />
-<img src="./assets/screenshots/mediaDetails (1).jpeg" alt="Screenshot da página detalhes" width="150" />
-<img src="./assets/screenshots/mediaDetails (2).jpeg" alt="Screenshot da página detalhes" width="150" />
-<img src="./assets/screenshots/tvseriespage.jpeg" alt="Screenshot da página de séries" width="150" />
-<img src="./assets/screenshots/animepage.jpeg" alt="Screenshot da página de animes" width="150" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./assets/screenshots/moviepage.jpeg" alt="Screenshot da página de filmes" width="150" />
+    <img src="./assets/screenshots/mediaDetails (1).jpeg" alt="Screenshot da página detalhes" width="150" />
+    <img src="./assets/screenshots/mediaDetails (2).jpeg" alt="Screenshot da página detalhes" width="150" />
+    <img src="./assets/screenshots/tvseriespage.jpeg" alt="Screenshot da página de séries" width="150" />
+    <img src="./assets/screenshots/animepage.jpeg" alt="Screenshot da página de animes" width="150" />
+</div>
 
 ## Funcionalidades
 
