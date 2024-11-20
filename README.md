@@ -48,7 +48,7 @@ Antes de instalar, certifique-se de que você tem os seguintes pré-requisitos:
     ```bash
     REACT_APP_API_KEY=your_api_key_here
     ```
-    **Por questões de segurança, você precisa configurar sua própria chave da API para testar este aplicativo.** Você pode obter sua chave de API na [página de registro da API TMDN](https://www.themoviedb.org/settings/api). 
+    **Por questões de segurança, você precisa configurar sua própria chave da API para testar o aplicativo.** Você pode obter sua chave de API na [página de registro da API TMDN](https://www.themoviedb.org/settings/api). 
 5. Instale as dependências:
     ```bash
     npm install
